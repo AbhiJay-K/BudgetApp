@@ -21,4 +21,4 @@ To get a local copy up and running, follow these simple steps:
 
 ```bash
 git clone https://github.com/AbhiJay-K/BudgetApp.git
-cd personal-budgeting-app
+cd BudgetApp
